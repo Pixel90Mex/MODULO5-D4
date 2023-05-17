@@ -1,0 +1,26 @@
+#Book {
+    background-color: #b20000;
+    padding: 0%;
+}
+#Book:hover {
+    
+    opacity: 0.8;
+    filter:grayscale(30%);
+}
+/*#Book::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    opacity: 0;
+    z-index: 2;
+}
+#Book:hover::before{
+    opacity: 0.4;
+    filter:grayscale(50%);
+    
+}*/
+
